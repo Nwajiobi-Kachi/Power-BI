@@ -1,8 +1,6 @@
-<img width="946" height="547" alt="updated AD dashboard" src="https://github.com/user-attachments/assets/11813e94-b23f-41a9-b80b-55bd798a51ff" /># 📊 Clear-Cut Campaign Ad Agency — 2024 Full-Year Performance Dashboard
+# 📊 Clear-Cut Campaign Ad Agency — 2024 Full-Year Performance Dashboard
 
 > A comprehensive annual performance report visualizing ad spend, revenue, platform efficiency, and audience journey for 2024.
-
-![Dashboard Preview](![Uploading updated AD dashboard.png…])
 
 ---
 
@@ -121,7 +119,9 @@ The agency achieved peak ROAS in **September (538.02%)**, with notable highs als
 - **Impression → Click Rate:** 3.84%
 - **Click → Conversion Rate:** ~4.58%
 - **Overall Impression → Conversion Rate:** ~0.18%
-
+- 
+---
+<img width="946" height="547" alt="updated AD dashboard" src="https://github.com/user-attachments/assets/11813e94-b23f-41a9-b80b-55bd798a51ff" />
 ---
 
 ## 🛠️ Tools & Stack
