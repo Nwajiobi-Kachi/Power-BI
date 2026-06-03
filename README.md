@@ -1,8 +1,8 @@
-# 📊 Clear-Cut Campaign Ad Agency — 2024 Full-Year Performance Dashboard
+<img width="946" height="547" alt="updated AD dashboard" src="https://github.com/user-attachments/assets/11813e94-b23f-41a9-b80b-55bd798a51ff" /># 📊 Clear-Cut Campaign Ad Agency — 2024 Full-Year Performance Dashboard
 
 > A comprehensive annual performance report visualizing ad spend, revenue, platform efficiency, and audience journey for 2024.
 
-![Dashboard Preview](updated_AD_dashboard.png)
+![Dashboard Preview](![Uploading updated AD dashboard.png…])
 
 ---
 
